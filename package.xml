@@ -1,0 +1,16 @@
+<package>
+  <name>object_library</name>
+  <version>0.1.0</version>
+  <description>Doc and objects for putting new objects in sara's detection</description>
+  <author email="sotistechno@gmail.com">Samuel Otis</author>
+  <maintainer email="sotistechno@gmail.com">Samuel Otis</maintainer>
+  <license>Apache 2.0</license>
+
+  <url>https://github.com/WalkingMachine/objects_library.git</url>
+
+  <build_depend>object_recognition_core</build_depend>
+
+  <run_depend>object_recognition_core</run_depend>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
